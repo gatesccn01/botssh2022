@@ -33,7 +33,7 @@ apt-get install zip -y > /dev/null 2>&1
 
 wget https://www.dropbox.com/s/hnqqqby0f358ilh/gerarusuario-sshplus.sh?dl=0 -O gerarusuario.sh; chmod +x gerarusuario.sh > /dev/null
 
-wget https://github.com/gatesccn01/botssh2022/raw/main/%40admysshbot.zip -O bot.zip && unzip bot.zip > /dev/null
+wget https://github.com/developper777/botsshfree/raw/master/%40admysshbot.zip -O bot.zip && unzip bot.zip > /dev/null
 
 rm dadosBot.ini > /dev/null
 
